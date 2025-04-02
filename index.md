@@ -7,4 +7,4 @@ Hola buenas!
 - Esto es una lista
 - Item 1
 
-[[hola esto es una prueba]]
+[[2025-04-02-MyBlogPost]]
